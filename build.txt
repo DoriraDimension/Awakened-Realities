@@ -1,0 +1,3 @@
+displayName = Awakened Realities
+author = Dorira
+version = 0.1
